@@ -3,6 +3,6 @@
 * it seems easy
 * no it's not
 * What's the problem?
-### So
+
 ## So
 
